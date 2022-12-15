@@ -20,6 +20,12 @@
 
 [B****usiness logic****](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/Business%20logic%20c9ec7f5859b14ed498696b4a16311ba9.md)
 
+[Information Disclosure](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/Information%20Disclosure%2006154dafad704f91afa870074ccc7b67.md)
+
+[SSRF](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/SSRF%2001041029fa6042bb9e01d3028b87dab3.md)
+
+[XXE](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/XXE%200f07e48100c94c60b6ed3c7e992dacd8.md)
+
 [Web-Sockets](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/Web-Sockets%20083b2ed69fff4211942e46b5ff5c2361.md)
 
 [****DOM-based vulnerabilities****](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/DOM-based%20vulnerabilities%20c27e0e8262ca4ddca6f7036be727c3c5.md)
@@ -29,3 +35,5 @@
 [****XSS****](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/XSS%2004995cb5be22462cada31d2632dfc66d.md)
 
 [CORS](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/CORS%200ace2a07dd5c44448ebc215f283ac5ee.md)
+
+[Clickhijacking](Port-Swigger%20Academy%203f21e1c96fee404cb582b5878f6603b1/Clickhijacking%20e51f5d1833d04e78a88c787c25009a15.md)
